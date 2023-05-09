@@ -1,0 +1,206 @@
+.togular{
+  padding-right: 19%;
+  font-family: Heebo;
+  font-size: 100%;
+}
+.com{
+  margin-top: 40%
+}
+.brand{
+  margin-left: 9%;
+
+}
+.logos{
+  width: 10%;
+}
+.logo1{
+  margin-left: 1%;
+}
+.logo2{
+  margin-top: 30%;
+}
+.logo3{
+  margin-left: 5%;
+}
+.logo4{
+  margin-top: 30%;
+}
+.font{
+  font-family: Quicksand;
+}
+.logo5{
+  margin-top: 30%;
+  width: 13%;
+}
+.logo6{
+  width: 16%;
+}
+.heading-font{
+  font-family: Heebo;
+}
+.info1{
+  margin-left: 15%;
+  margin-top: 6%;
+}
+.but{
+  margin-left: 15%;
+  margin-top: 10%;
+}
+.bu1{
+  margin-left: 3%;
+}
+.but2{
+  margin-left: 3%;
+}
+.div2{
+  padding-top: 3%;
+}
+.rotate1{
+  transform: rotate(-20deg);
+}
+.rotate2{
+  transform: rotate(20deg);
+}
+.rotate3{
+  transform: rotate(20deg);
+}
+.rotate4{
+  transform: rotate(-20deg);
+}
+.rotate5{
+  transform: rotate(10deg);
+}
+.rotate6{
+  transform: rotate(-10deg);
+}
+.youtube-logo{
+  width: 9%;
+  margin-left: 45.5%;
+  margin-top: 10%;
+}
+.insta-logo{
+  width: 8%;
+  margin-left: 46.5%;
+  margin-top: 10%;
+}
+.font-c{
+  color: white;
+}
+.color{
+  background-color: black;
+}
+.c{
+  margin-top: 18%;
+}
+.em{
+  width: 5%;
+}
+.ydis{
+  font-family: Karla;
+  /* margin-left: 10%; */
+  text-align: center;
+}
+.indis{
+  text-align: center;
+  font-family: karla;
+  margin-top: 1%;
+}
+.youtube-logo:hover{
+  width: 9.5%;
+}
+.insta-logo:hover{
+  width: 8.5%;
+}
+.imgw{
+  width: 40%;
+  height: 40%;
+  margin-left: 30%;
+}
+.edfont{
+  font-family: Quicksand;
+  color: white;
+  padding-left: 19%;
+  padding-top: 3%;
+}
+.f{
+  margin-bottom: 2%;
+}
+.m{
+  padding-bottom: 10%;
+}
+.container-fluid{
+  padding-bottom: 7%;
+}
+@media (max-width:900px) {
+  .media1{
+    margin-left: 7%;
+    width: 25%;
+  }
+}
+@media (max-width:900px) {
+  .media2{
+    margin-left: 1%;
+    width: 17%;
+  }
+}
+@media (max-width:900px) {
+  .media3{
+    margin-left: 1%;
+    width: 18%;
+  }
+}
+@media (max-width:900px) {
+  .media4{
+    margin-left: 1%;
+    width: 18%;
+  }
+}
+@media (max-width:900px) {
+  .media5{
+    margin-left: 1%;
+    width: 18%;
+  }
+}
+@media (max-width:900px) {
+  .media6{
+    margin-left: 1%;
+    width: 18%;
+  }
+}
+
+@media (max-width:800px) {
+  .media1{
+    margin-left: 1%;
+    width: 10%;
+  }
+}
+@media (max-width:800px) {
+  .media2{
+    margin-left: 2%;
+    width: 8%;
+  }
+}
+@media (max-width:800px) {
+  .media3{
+    margin-left: 1%;
+    width: 8%;
+  }
+}
+@media (max-width:800px) {
+  .media4{
+    margin-left: 1%;
+    width: 8%;
+  }
+}
+@media (max-width:800px) {
+  .media5{
+    margin-left: 1%;
+    width: 8%;
+  }
+}
+@media (max-width:800px) {
+  .media6{
+    margin-left: 20%;
+    width: 8%;
+  }
+}
